@@ -7,9 +7,8 @@ This is a demo GIT repository.
 Well...that's just like your, uh, opinion, man.
 
 ###
-Now then..
-hello world!
-
-####
 add and commit at the same time.
 added python code
+the script sends a notification to the configured phone number by publishing it to an AWS SNS queue.
+
+
