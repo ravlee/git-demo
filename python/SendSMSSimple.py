@@ -3,8 +3,8 @@ import boto3
 
 #print('Loading function')
 region = 'us-east-1'
-phoneNumber = '+91111111111111'
-msg = 'TestMessage'
+phoneNumber = '+1111111111111'
+msg = 'what is up?'
 
 snsClient = boto3.client('sns')
 
